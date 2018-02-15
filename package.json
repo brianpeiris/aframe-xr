@@ -23,7 +23,7 @@
     "cross-env": "^5.1.0",
     "semistandard": "^11.0.0",
     "snazzy": "^7.0.0",
-    "three.xr.js": "github:brianpeiris/three.xr.js#c5905e9",
+    "three.xr.js": "github:brianpeiris/three.xr.js#3a9f934",
     "uglifyjs-webpack-plugin": "1.0.1",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.3"
